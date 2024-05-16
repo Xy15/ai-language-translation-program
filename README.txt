@@ -8,7 +8,7 @@ Modules:
 3. Optical Character Recognition
 
 Before running:
-Do download Tesseract application attached in the zip file
+Do download Tesseract OCR application
 Add "C:\Program Files\Tesseract-OCR\" in Path
 1. Open control panel
 2. Search "Advance System Settings"
