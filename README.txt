@@ -9,6 +9,8 @@ Modules:
 
 Before running:
 Do download Tesseract OCR application
+Get traineddata from https://github.com/tesseract-ocr/tessdata
+E.g. chi_tra.traineddata, eng.traineddata, chi_sim.traineddata
 Add "C:\Program Files\Tesseract-OCR\" in Path
 1. Open control panel
 2. Search "Advance System Settings"
