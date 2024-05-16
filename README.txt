@@ -1,3 +1,12 @@
+Language Translation Program (OCR + NLP)
+
+Done by a team of 3 members.
+
+Modules:
+1. Image Preprocessing
+2. Natural Language Processing
+3. Optical Character Recognition
+
 Before running:
 Do download Tesseract application attached in the zip file
 Add "C:\Program Files\Tesseract-OCR\" in Path
